@@ -1,0 +1,22 @@
+body{font-family: "Open Sans", arial, sans-serif;}
+.container{width:960px;}
+.content {
+	margin: 20px auto;
+	width:960px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+	padding:10px;
+}
+
+.content-img{
+	margin:10px 0;
+	/*border:1px solid #e5e5e5;*/
+	/*padding: 10px;*/
+	display: block;
+}
+img.one-img{height:200px;}
+img.one-img:hover{
+	cursor:pointer;
+}
+
+.form-upload{margin:20px 0;display: block;}
